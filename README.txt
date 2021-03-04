@@ -1,5 +1,6 @@
-Discipline : Java
-Teacher    : Edney
+Discipline  : Java
+Teacher     : Edney
+Developer   : Caique
 
 last Uptade : Transale some parts to english language
 
@@ -10,3 +11,7 @@ He will pick up six number of the player and generate five thousand combinations
 
 the process was maked with one array 2D, so is easy to alter the 
     numbers of cards and how much positions he will have 
+
+Who is Edney ?
+	https://www.youtube.com/channel/UCx-SRHlzhvOtSkqGQsqhBzA
+
